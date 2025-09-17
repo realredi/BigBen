@@ -1,0 +1,63 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  font-family: 'Courier New', monospace;
+  text-decoration: underline;
+  text-align: center;
+  color: #CD7F32;
+}
+
+h2 {
+  color: #CD7F32;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: underline;
+}
+
+h3 {
+  color: #CD7F32;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: underline;
+}
+
+p {
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  color: #CD7F32;
+  font-size: 30px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  display: block;
+  border-radius: 50%;
+}
+
+img:hover {
+  transform: scale(1.2);
+  transition: all .3s ease;
+}
+
+hr {
+  border: 1px solid #CD7F32;
+}
+
+#fun-facts {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+  font-size: 30px;
+  color: #CD7F32;
+}
+
+iframe {
+    width: 1000px;
+    height: 750px;
+    margin: 0 auto;
+    background-color: #777;
+    display: block;
+}
